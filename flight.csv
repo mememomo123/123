@@ -1,0 +1,15 @@
+flight,airline,depart,arrive,capacity
+123,Cathy Pacific,DTW,BOS,200
+124,HK Airline,ATL,DTW,300
+125,Cathy Pacific,PIT,ATL,400
+126,HK Airline,BOS,PIT,500
+127,Cathy Pacific,DTW,BOS,200
+128,America Airline,ATL,DTW,300
+129,Cathy Pacific,PIT,ATL,400
+130,America Airline,BOS,PIT,500
+131,Cathy Pacific,DTW,BOS,200
+132,America Airline,ATL,DTW,300
+133,Cathy Pacific,PIT,BOS,400
+134,America Airline,BOS,DTW,500
+135,Cathy Pacific,DTW,BOS,200
+136,HK Airline,ATL,DTW,300
